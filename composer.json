@@ -1,0 +1,14 @@
+{
+    "name": "phalconeye/theme-default",
+    "type": "phalconeye-theme",
+    "description" : "PhalconEye Default Theme",
+    "keywords" : [ "phalcon", "phalconeye", "theme" ],
+    "homepage" : "http://phalconeye.com",
+    "license" : "BSD-3-Clause",
+    "require" : {
+        "php" : ">=5.4.20"
+    },
+    "extra": {
+        "name": "default"
+    }
+}
